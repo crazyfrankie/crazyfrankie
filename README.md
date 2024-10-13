@@ -1,8 +1,8 @@
 # 你好，我是 crazyfrankie 👋
 
-## 技能和工具
+## Language & Framework & Database
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-
+![Gin](https://img.shields.io/badge/:badgeContent?style=flat&logo=%23008ECF&logoColor=(255%2C255%2C255)&logoSize=auto&labelColor=(0%2C0%2C255)&color=(0%2C0%2C255))
 ## GitHub 统计信息
 ![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
 
