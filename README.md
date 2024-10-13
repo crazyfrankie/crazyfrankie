@@ -28,8 +28,6 @@
 
 ## Stats
 ![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
-
-![GitHub Snake](https://github.com/crazyfrankie/crazyfrankie/blob/output/snake.svg)
 <!--
 **crazyfrankie/crazyfrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
