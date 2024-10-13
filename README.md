@@ -6,8 +6,6 @@
 ## GitHub 统计信息
 ![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
 
-## 活动图表
-[![crazyfrankie's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=crazyfrankie&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **crazyfrankie/crazyfrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
