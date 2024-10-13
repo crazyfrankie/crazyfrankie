@@ -2,7 +2,7 @@
 
 ## Language & Framework & Database
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-?style=flat&logo=%23008ECF&logoSize=white)
+![Gin](https://img.shields.io/badge/Gin-%23000.svg?style=flat&logo=Go&logoColor=white)
 
 ## GitHub 统计信息
 ![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
