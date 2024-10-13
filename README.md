@@ -23,7 +23,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-%2523000?style=flat&logo=Wireshark&logoColor=blue&labelColor=white&color=green)
 ![Notion](https://img.shields.io/badge/Notion-%2523000?style=flat&logo=Notion&logoColor=black&labelColor=white&color=purple)
 
-## GitHub 统计信息
+## Stats
 ![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
 
 
