@@ -1,4 +1,4 @@
-# hello，I'm crazyfrankie 👋
+# crazyfrankie 👋
 - CQUT CFC studio member, accounting professional mixed
 - At present, it mainly develops in the field of GoWeb and middleware research and development
 
