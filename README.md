@@ -16,10 +16,12 @@
 ![VScode](https://img.shields.io/badge/VScode-%2523000?style=flat&logoColor=white&color=blue)
 
 ## Other skills
+![Git](https://img.shields.io/badge/Git-%2523000?style=flat&logo=Git&logoColor=black&labelColor=white&color=red)
 ![Docker](https://img.shields.io/badge/Docker-%2523000?style=flat&logo=Docker&logoColor=blue&labelColor=white&color=blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%2523000?style=flat&logo=Kubernetes&logoColor=blue&labelColor=white&color=blue)
-![Git](https://img.shields.io/badge/Git-%2523000?style=flat&logo=Git&logoColor=black&labelColor=white&color=red)
+![etcd](https://img.shields.io/badge/%20etcd-%2523000?style=flat&logo=etcd&logoColor=black&labelColor=white&color=red)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%2523000?style=flat&logo=Wireshark&logoColor=blue&labelColor=white&color=green)
+![Notion](https://img.shields.io/badge/Notion-%2523000?style=flat&logo=Notion&logoColor=black&labelColor=white&color=purple)
 
 ## GitHub 统计信息
 ![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
