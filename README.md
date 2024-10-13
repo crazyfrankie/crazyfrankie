@@ -4,6 +4,8 @@
 
 ## Language & Framework & Database
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%2523000?style=flat&logo=Lua&logoColor=black&labelColor=white&color=red)
+![C++](https://img.shields.io/badge/C%2B%2B-%2523000?style=flat&logo=C%2B%2B&logoColor=blue&labelColor=white&color=red)
 ![Gin](https://img.shields.io/badge/Gin-%2523000.svg?style=flat&logo=Gin&logoColor=white&labelColor=blue&color=blue)
 ![Gorm](https://img.shields.io/badge/Gorm-%2523000?style=flat&logo=Go&logoColor=white&labelColor=blue&color=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-%2523000?style=flat&logo=MySQL&logoColor=blue&labelColor=white&color=green)
