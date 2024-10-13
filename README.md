@@ -1,4 +1,6 @@
 # hello，I'm crazyfrankie 👋
+- CQUT CFC studio member, accounting professional mixed
+- At present, it mainly develops in the field of GoWeb and middleware research and development
 
 ## Language & Framework & Database
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
@@ -6,6 +8,12 @@
 ![Gorm](https://img.shields.io/badge/Gorm-%2523000?style=flat&logo=Go&logoColor=white&labelColor=blue&color=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-%2523000?style=flat&logo=MySQL&logoColor=blue&labelColor=white&color=green)
 ![Redis](https://img.shields.io/badge/Redis-%2523000?style=flat&logo=Redis&logoColor=red&labelColor=white&color=red)
+
+## OS & IDE
+![Linux](https://img.shields.io/badge/Linux-%2523000?style=flat&logo=Linux&logoColor=blue&labelColor=white&color=brown)
+![Windows10/11](https://img.shields.io/badge/Windows10%2F11-%2523000?style=flat&logoColor=blue&color=blue)
+![GoLand](https://img.shields.io/badge/GoLand-%2523000?style=flat&logo=GoLand&logoColor=white&labelColor=blue&color=blue)
+![VScode](https://img.shields.io/badge/VScode-%2523000?style=flat&logoColor=white&color=blue)
 
 ## GitHub 统计信息
 ![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
