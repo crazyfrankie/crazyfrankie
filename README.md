@@ -1,5 +1,5 @@
 # crazyfrankie 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=1A73E8&vCenter=true&width=600&lines=This+is+crazyfrank;Welcome+to+explore+my+projects;Coding+with+Go+and+middleware+R%26DThis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=1A73E8&vCenter=true&width=600&lines=This+is+crazyfrank;Welcome+to+explore+my+projects;Coding+with+Go+and+middleware+R%26D)](https://git.io/typing-svg)
 - CQUT CFC studio member, accounting professional mixed
 - At present, it mainly develops in the field of GoWeb and middleware research and development
 
