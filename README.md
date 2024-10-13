@@ -1,4 +1,4 @@
-# 你好，我是 crazyfrankie 👋
+# hello，I'm crazyfrankie 👋
 
 ## Language & Framework & Database
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
