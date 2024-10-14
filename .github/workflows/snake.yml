@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # 自动运行
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # 手动运行
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,6 +21,13 @@ jobs:
         with:
           github_user_name: crazyfrankie
           outputs: dist/snake.svg
+
+      - name: Check if snake animation file exists
+        run: |
+          if [ ! -f "dist/snake.svg" ]; then
+            echo "snake.svg does not exist"
+            exit 1
+          fi
 
       - name: List files in dist directory
         run: ls -la dist
