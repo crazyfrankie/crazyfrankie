@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v2
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate snake animation
         uses: Platane/snk@master
         id: snake-gif
