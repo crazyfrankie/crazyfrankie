@@ -13,13 +13,13 @@
 ![Redis](https://img.shields.io/badge/Redis-%2523000?style=flat&logo=Redis&logoColor=red&labelColor=white&color=red)
 
 ## OS & IDE
-![Linux](https://img.shields.io/badge/Linux-%2523000?style=flat&logo=Linux&logoColor=blue&labelColor=white&color=brown)
+![Linux](https://img.shields.io/badge/Linux-%2523000?logo=Linux&logoColor=white&labelColor=grey&color=red)
 ![Windows10/11](https://img.shields.io/badge/Windows10%2F11-%2523000?style=flat&logoColor=blue&color=blue)
-![GoLand](https://img.shields.io/badge/GoLand-%2523000?style=flat&logo=GoLand&logoColor=white&labelColor=blue&color=blue)
+![GoLand](https://img.shields.io/badge/GoLand-%2523000?logo=GoLand&logoColor=white&labelColor=grey&color=blue)
 ![VScode](https://img.shields.io/badge/VScode-%2523000?style=flat&logoColor=white&color=blue)
 
 ## Other skills
-![Git](https://img.shields.io/badge/Git-%2523000?style=flat&logo=Git&logoColor=black&labelColor=white&color=red)
+![Git](https://img.shields.io/badge/Git-%2523000?logo=Git&logoColor=white&labelColor=grey&color=red)
 ![Docker](https://img.shields.io/badge/Docker-%2523000?style=flat&logo=Docker&logoColor=blue&labelColor=white&color=blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%2523000?style=flat&logo=Kubernetes&logoColor=blue&labelColor=white&color=blue)
 ![etcd](https://img.shields.io/badge/%20etcd-%2523000?style=flat&logo=etcd&logoColor=black&labelColor=white&color=red)
