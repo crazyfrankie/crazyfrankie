@@ -20,7 +20,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: crazyfrankie
-          outputs: dist/snake.svg
+          outputs: ./dist
 
       - name: Check if snake animation file exists
         run: |
