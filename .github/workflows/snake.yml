@@ -21,7 +21,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: crazyfrankie
-          outputs: dist/snake.svg
+          outputs: ./dist/snake.svg
 
       # 将生成的文件推送到 output 分支
       - name: Push snake animation to GitHub Pages
