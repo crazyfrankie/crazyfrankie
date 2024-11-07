@@ -3,14 +3,20 @@
 - CQUT: Member of CFC studio. Sophomore majoring in Computer Science 
 - At present, it mainly develops in the field of GoWeb and middleware research and development
 
-## Language & Framework & Database
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%2523000?style=flat&logo=Lua&logoColor=black&labelColor=white&color=red)
-![C++](https://img.shields.io/badge/C%2B%2B-%2523000?style=flat&logo=C%2B%2B&logoColor=blue&labelColor=white&color=red)
-![Gin](https://img.shields.io/badge/Gin-%2523000.svg?style=flat&logo=Gin&logoColor=white&labelColor=blue&color=blue)
-![Gorm](https://img.shields.io/badge/Gorm-%2523000?style=flat&logo=Go&logoColor=white&labelColor=blue&color=blue)
-![MySQL](https://img.shields.io/badge/MySQL-%2523000?style=flat&logo=MySQL&logoColor=blue&labelColor=white&color=green)
-![Redis](https://img.shields.io/badge/Redis-%2523000?style=flat&logo=Redis&logoColor=red&labelColor=white&color=red)
+<!--
+**crazyfrankie/crazyfrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ## OS & IDE
 ![Linux](https://img.shields.io/badge/Linux-%2523000?logo=Linux&logoColor=white&labelColor=grey&color=red)
