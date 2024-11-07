@@ -18,25 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## OS & IDE
-![Linux](https://img.shields.io/badge/Linux-%2523000?logo=Linux&logoColor=white&labelColor=grey&color=red)
-![Windows10/11](https://img.shields.io/badge/Windows10%2F11-%2523000?style=flat&logoColor=blue&color=blue)
-![GoLand](https://img.shields.io/badge/GoLand-%2523000?logo=GoLand&logoColor=white&labelColor=grey&color=blue)
-![VScode](https://img.shields.io/badge/VScode-%2523000?style=flat&logoColor=white&color=blue)
-
-## Other skills
-![Git](https://img.shields.io/badge/Git-%2523000?logo=Git&logoColor=white&labelColor=grey&color=red)
-![Docker](https://img.shields.io/badge/Docker-%2523000?style=flat&logo=Docker&logoColor=blue&labelColor=white&color=blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%2523000?style=flat&logo=Kubernetes&logoColor=blue&labelColor=white&color=blue)
-![etcd](https://img.shields.io/badge/%20etcd-%2523000?style=flat&logo=etcd&logoColor=black&labelColor=white&color=red)
-![Wireshark](https://img.shields.io/badge/Wireshark-%2523000?style=flat&logo=Wireshark&logoColor=blue&labelColor=white&color=green)
-![Notion](https://img.shields.io/badge/Notion-%2523000?style=flat&logo=Notion&logoColor=black&labelColor=white&color=purple)
-
-## Stats
-![crazyfrankie's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyfrankie&show_icons=true&theme=radical)
-
-![GitHub Snake Game](https://raw.githubusercontent.com/crazyfrankie/crazyfrankie/output/github-contribution-grid-snake.svg)
-
 <!--
 **crazyfrankie/crazyfrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
