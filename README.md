@@ -3,6 +3,7 @@
 - CQUT: Member of CFC studio. Sophomore majoring in Computer Science 
 - At present, it mainly develops in the field of GoWeb and middleware research and development
 
+![GitHub Snake Game](https://raw.githubusercontent.com/crazyfrankie/crazyfrankie/output/github-contribution-grid-snake.svg)
 <!--
 **crazyfrankie/crazyfrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
