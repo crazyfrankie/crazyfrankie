@@ -3,6 +3,7 @@
 - CQUT: Member of CFC studio. Sophomore majoring in Computer Science 
 - At present, it mainly develops in the field of GoWeb and middleware research and development
 
+![crazyfrankie's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=crazyfrankie&count_private=true&show_icons=true&theme=radical&include_all_commits=true)  
 <!--
 **crazyfrankie/crazyfrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
