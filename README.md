@@ -3,7 +3,7 @@
 - CQUT: Member of CFC studio. Sophomore majoring in Computer Science 
 - At present, it mainly develops in the field of GoWeb and middleware research and development
 
-![crazyfrankie's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Linus Torvalds&count_private=true&show_icons=true&theme=radical&include_all_commits=true)  
+![crazyfrankie's GitHub stats](https%3A%2F%2Fgithub-readme-stats-ten-gilt.vercel.app%2Fapi%3Fusername%3DLinus%20Torvalds%26count_private%3Dtrue%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue)  
 <!--
 **crazyfrankie/crazyfrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
